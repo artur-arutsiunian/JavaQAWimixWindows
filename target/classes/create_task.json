@@ -1,0 +1,10 @@
+{
+  "main_report_form": 24,
+  "location": 118,
+  "type": 1,
+  "description": "qwe",
+  "planned_start_at_date": "2021-08-30",
+  "planned_start_at_time": "12:01",
+  "planned_end_at": "2021-08-31T14:30",
+  "assigned_user": "0ba3cc02-f3e1-4244-ba1d-a8251fa6e2f6"
+}
